@@ -8,8 +8,18 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "axios": "^0.21.0",
+    "bpmn-js": "^7.5.0",
+    "bpmn-moddle": "^7.0.4",
     "core-js": "^2.6.5",
-    "vue": "^2.6.10"
+    "element-ui": "^2.14.1",
+    "moment": "^2.29.1",
+    "reset.css": "^2.0.2",
+    "vue": "^2.6.10",
+    "vue-ace-editor": "^1.0.3",
+    "vue-router": "^3.4.9",
+    "vue2-ace-editor": "0.0.15",
+    "vuex": "^3.6.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.11.0",
