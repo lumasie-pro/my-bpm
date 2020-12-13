@@ -13,7 +13,8 @@
 
 <script>
   import templateXml from "./data/template";
-  import BpmnModeler from 'bpmn-js/lib/Modeler'
+  // import BpmnModeler from 'bpmn-js/lib/Modeler'
+  import BpmnModeler from './modeler'
   import customTranslate from "./data/translate/customTranslate";
   import VueHeader from "./Header";
   import BpmnPanel from "./panel/index";
