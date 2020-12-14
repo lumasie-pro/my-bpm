@@ -178,7 +178,7 @@
     data() {
       return {
         configTab: 'node',
-        panelIndex: 8,
+        panelIndex: 1,
         element: null,
         nodeElement: {},
         formData: {}
